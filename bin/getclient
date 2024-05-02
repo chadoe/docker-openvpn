@@ -56,7 +56,6 @@ tls-client
 nobind
 dev tun
 remote-cert-tls server
-comp-lzo
 mute 20
 float
 resolv-retry infinite

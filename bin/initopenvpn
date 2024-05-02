@@ -171,7 +171,6 @@ key-direction 0
 keepalive 10 60
 persist-key
 persist-tun
-comp-lzo
 mute 20
 float
 remote-cert-eku "TLS Web Client Authentication"
